@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Olena-Koval/adivina-numero-2024/issues"
   },
-  "homepage": "https://github.com/Olena-Koval/adivina-numero-2024#readme"
+  "homepage": "https://github.com/Olena-Koval/adivina-numero-2024#readme",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
 }
