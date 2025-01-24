@@ -1,0 +1,19 @@
+{
+  "name": "adivina-numero-2024",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto JS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olena-Koval/adivina-numero-2024.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olena-Koval/adivina-numero-2024/issues"
+  },
+  "homepage": "https://github.com/Olena-Koval/adivina-numero-2024#readme"
+}
