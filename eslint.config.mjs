@@ -4,9 +4,7 @@ import pluginJs from "@eslint/js";
 export default [
   {
     languageOptions: { globals: globals.browser },
-    rules: {
-      quotes: ["error", "double"]
-    }
+    rules: {}
 },
   pluginJs.configs.recommended,
 ];
